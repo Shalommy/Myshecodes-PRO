@@ -1,5 +1,5 @@
 body {
-    background-color: #f9f7fe;
+    background-color: #d2deb9;
     font-family: "Roboto", sans-serif;
   }
   a {
@@ -26,7 +26,7 @@ body {
     padding: 15px 20px;
   }
   .search-form-button {
-    background: #885df1;
+    background: #106b27b8;
     padding: 15px 30px;
     border: none;
     font-size: 16px;
